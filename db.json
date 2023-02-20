@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Pro",
+      "price": 250000,
+      "rating": 5,
+      "isAvailable": true,
+      "imageUrl": "https://www.apple.com/newsroom/images/tile-images/Apple_macbookpro-13-inch_screen_05042020.jpg.og.jpg?202208151956",
+      "likes": 100
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air",
+      "price": 200000,
+      "rating": 4,
+      "isAvailable": false,
+      "imageUrl": "https://media.croma.com/image/upload/v1655189327/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256712_bjdqif.png",
+      "likes": 200
+    },
+    {
+      "id": 3,
+      "title": "iPhone",
+      "price": 100000,
+      "rating": 4,
+      "isAvailable": true,
+      "imageUrl": "https://m.media-amazon.com/images/I/61AwGDDZd3L._SX522_.jpg",
+      "likes": 200
+    },
+    {
+      "id": 4,
+      "title": "Apple Airpods",
+      "price": 30000,
+      "rating": 4,
+      "isAvailable": true,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000",
+      "likes": 200
+    },
+    {
+      "id": 5,
+      "title": "Apple Charger",
+      "price": 25000,
+      "rating": 3,
+      "isAvailable": false,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MJWY3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1625613219000",
+      "likes": 200
+    },
+    {
+      "id": 6,
+      "title": "MackBookNew",
+      "price": 1000,
+      "likes": 10,
+      "rating": 4,
+      "isAvailable": true,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MJWY3?wid=890&hei=890&fmt=jpeg&qlt=90&.v=1625613219000"
+    }
+  ]
+}

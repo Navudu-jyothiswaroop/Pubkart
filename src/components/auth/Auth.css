@@ -1,0 +1,16 @@
+.sub-nav{
+    display: flex;
+    justify-content: space-around;
+}
+.sub-nav-row{
+    border: 1px solid darkgray;
+    width: 100%;
+    text-align: center;
+    background-color:darkgrey;
+    padding: 10px;
+    margin: 1px;
+}
+.sub-nav-btn{
+    text-decoration: none !important;
+    color: black !important;
+}
